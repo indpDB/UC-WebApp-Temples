@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/TS_Temples.json
+
+https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/AP_Temples.json
+
