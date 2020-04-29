@@ -1,0 +1,42 @@
+[
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/13.png",
+		"URL": "http://manatemples.net/Pages/TE_Adilabad.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/14.png",
+		"URL": "http://manatemples.net/Pages/TE_Hyderabad.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/15.png",
+		"URL": "http://manatemples.net/Pages/TE_Karimnagar.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/16.png",
+		"URL": "http://manatemples.net/Pages/TE_Khammam.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/17.png",
+		"URL": "http://manatemples.net/Pages/TE_Mahabubnagar.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/18.png",
+		"URL": "http://manatemples.net/Pages/TE_Medak.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/19.png",
+		"URL": "http://manatemples.net/Pages/TE_Nalongda.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/20.png",
+		"URL": "http://manatemples.net/Pages/TE_Nizamabad.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/21.png",
+		"URL": "http://manatemples.net/Pages/TE_RangaReddy.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/22.png",
+		"URL": "http://manatemples.net/Pages/TE_Warangal.htm"
+	}
+]

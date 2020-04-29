@@ -1,0 +1,54 @@
+[
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/1.png",
+		"URL": "http://manatemples.net/Pages/AP_Ananthapur.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/2.png",
+		"URL": "http://manatemples.net/Pages/AP_Chittoor.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/3.png",
+		"URL": "http://manatemples.net/Pages/AP_EastGodavari.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/4.png",
+		"URL": "http://manatemples.net/Pages/AP_Guntur.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/5.png",
+		"URL": "http://manatemples.net/Pages/AP_Kadapa.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/6.png",
+		"URL": "http://manatemples.net/Pages/AP_Krishna.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/7.png",
+		"URL": "http://manatemples.net/Pages/AP_Kurnool.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/8.png",
+		"URL": "http://manatemples.net/Pages/AP_Prakasam.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/9.png",
+		"URL": "http://manatemples.net/Pages/AP_Nellore.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/10.png",
+		"URL": "http://manatemples.net/Pages/AP_Srikakulam.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/11.png",
+		"URL": "http://manatemples.net/Pages/AP_Vishakapatnam.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/12.png",
+		"URL": "http://manatemples.net/Pages/AP_Vizyanagaram.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-Temples/master/13.png",
+		"URL": "http://manatemples.net/Pages/AP_WestGodavari.htm"
+	}
+]
